@@ -1,6 +1,6 @@
 ## master
 
-* `ignore_assign_current` – Add new plugin for skipping uploaded file assignment when it's the current file (@janko)
+* `allow_assign_current` – Add new plugin for skipping uploaded file assignment when it's the current file (@janko)
 
 * `derivatives` – Add `:io` and `:attacher` values to instrumentation event payload (@janko)
 
